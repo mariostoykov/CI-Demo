@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\TOSHIBA\\source\\repos\\FrontEndAutomation\\5.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\\2-SeleniumWebDriver\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C44FDB80-C125-4C45-9E43-0BC12975199F}|TestProject1\\TestProject1.csproj|c:\\users\\toshiba\\source\\repos\\frontendautomation\\5.workshop-ci-system-with-selenium-appium-tests-i-resources\\2-seleniumwebdriver\\testproject1\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44FDB80-C125-4C45-9E43-0BC12975199F}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49C8D5A-B91A-41D5-9F8C-DA6621E27C06}|TestProject2\\TestProject2.csproj|c:\\users\\toshiba\\source\\repos\\frontendautomation\\5.workshop-ci-system-with-selenium-appium-tests-i-resources\\2-seleniumwebdriver\\testproject2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49C8D5A-B91A-41D5-9F8C-DA6621E27C06}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|c:\\users\\toshiba\\source\\repos\\frontendautomation\\5.workshop-ci-system-with-selenium-appium-tests-i-resources\\2-seleniumwebdriver\\testproject3\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|solutionrelative:testproject3\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DropDown.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\source\\repos\\FrontEndAutomation\\5.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\\2-SeleniumWebDriver\\TestProject3\\DropDown.cs",
+              "RelativeDocumentMoniker": "TestProject3\\DropDown.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\FrontEndAutomation\\5.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\\2-SeleniumWebDriver\\TestProject3\\DropDown.cs",
+              "RelativeToolTip": "TestProject3\\DropDown.cs",
+              "ViewState": "AgIAAAoAAADQzMzMzMw3wB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:50:37.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\source\\repos\\FrontEndAutomation\\5.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\\2-SeleniumWebDriver\\TestProject2\\Table.cs",
+              "RelativeDocumentMoniker": "TestProject2\\Table.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\FrontEndAutomation\\5.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\\2-SeleniumWebDriver\\TestProject2\\Table.cs",
+              "RelativeToolTip": "TestProject2\\Table.cs",
+              "ViewState": "AgIAAA0AAAAANDMzMzPjvx0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:50:22.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\TOSHIBA\\source\\repos\\FrontEndAutomation\\5.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\\2-SeleniumWebDriver\\TestProject1\\TestCalculator.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestCalculator.cs",
+              "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\FrontEndAutomation\\5.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\\2-SeleniumWebDriver\\TestProject1\\TestCalculator.cs",
+              "RelativeToolTip": "TestProject1\\TestCalculator.cs",
+              "ViewState": "AgIAAA8AAADAmZmZmZkdwCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:42:50.131Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

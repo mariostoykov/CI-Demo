@@ -22,8 +22,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -34,8 +42,7 @@
               "RelativeToolTip": "TestProject3\\DropDown.cs",
               "ViewState": "AgIAAAoAAADQzMzMzMw3wB8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T18:50:37.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T18:50:37.666Z"
             },
             {
               "$type": "Document",
@@ -47,8 +54,7 @@
               "RelativeToolTip": "TestProject2\\Table.cs",
               "ViewState": "AgIAAA0AAAAANDMzMzPjvx0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T18:50:22.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T18:50:22.35Z"
             },
             {
               "$type": "Document",
@@ -58,18 +64,10 @@
               "RelativeDocumentMoniker": "TestProject1\\TestCalculator.cs",
               "ToolTip": "C:\\Users\\TOSHIBA\\source\\repos\\FrontEndAutomation\\5.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\\2-SeleniumWebDriver\\TestProject1\\TestCalculator.cs",
               "RelativeToolTip": "TestProject1\\TestCalculator.cs",
-              "ViewState": "AgIAAA8AAADAmZmZmZkdwCQAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T18:42:50.131Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

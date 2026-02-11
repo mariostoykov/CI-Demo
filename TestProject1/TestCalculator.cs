@@ -7,6 +7,7 @@ using System;
 namespace TestProject1
 {
     [TestFixture]
+    [Ignore("External calculator site is currently unavailable")]
     public class TestCalculator
     {
         IWebDriver driver;
