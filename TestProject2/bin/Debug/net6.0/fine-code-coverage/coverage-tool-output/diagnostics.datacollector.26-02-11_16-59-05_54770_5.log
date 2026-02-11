@@ -1,0 +1,7 @@
+TpTrace Verbose: 0 : 6432, 1, 2026/02/11, 16:59:05.921, 3333877971947, datacollector.dll, Version: 17.12.0-release-24508-01
+TpTrace Information: 0 : 6432, 1, 2026/02/11, 16:59:05.932, 3333878076334, datacollector.dll, DataCollectorMain.Run: Starting data collector run with args: --port,56838,--parentprocessid,4364,--diag,C:\Users\TOSHIBA\source\repos\FrontEndAutomation\5.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\2-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\fine-code-coverage\coverage-tool-output\diagnostics.datacollector.26-02-11_16-59-05_54770_5.log,--tracelevel,4
+TpTrace Information: 0 : 6432, 1, 2026/02/11, 16:59:05.932, 3333878080077, datacollector.dll, DataCollector: Monitoring parent process with id: '4364'
+TpTrace Information: 0 : 6432, 1, 2026/02/11, 16:59:05.952, 3333878281523, datacollector.dll, Trying to connect to server on socket : 127.0.0.1:56838 
+TpTrace Verbose: 0 : 6432, 1, 2026/02/11, 16:59:05.980, 3333878562017, datacollector.dll, SocketCommunicationManager : SetupClientAsync : Attempting to connect to the server.
+TpTrace Information: 0 : 6432, 6, 2026/02/11, 16:59:06.005, 3333878814926, datacollector.dll, Connected to the server successfully 
+TpTrace Information: 0 : 6432, 6, 2026/02/11, 16:59:06.006, 3333878816522, datacollector.dll, Using the buffer size of 16384 bytes
